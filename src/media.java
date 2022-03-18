@@ -11,9 +11,9 @@ public class media {
 
         Scanner sc = new Scanner(System.in);
 
-        Double A = 5.0;
-        Double B = 7.1;
-        Double media;
+        double A = 5.0;
+        double B = 7.1;
+        double media;
 
         //        A = sc.nextDouble();
         //        B = sc.nextDouble();
